@@ -108,4 +108,4 @@ BEGIN
       VALUES (p.order_id, 0, 'card', 'pending', NULL);
     END IF;
   END LOOP;
-END;
+END;$$;
