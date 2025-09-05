@@ -1,4 +1,3 @@
-import pypandoc
 
 # محتوى السيرة الذاتية بتنسيق Markdown مع ايموجيز
 cv_content = """# 👨‍💻 السيرة الذاتية
